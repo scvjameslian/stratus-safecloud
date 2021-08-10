@@ -1,0 +1,96 @@
+---
+  accounts:
+    "235410405967":
+      profile: AladdinDev
+    "991937040196":
+      profile: AladdinTooling
+    "310234620425":
+      profile: AladdinPreProd
+    "683956285758":
+      profile: AutumnDev
+    "380160487772":
+      profile: AutumnTooling
+    "770863792327":
+      profile: AutumnPreProd
+    "902811584432":
+      profile: AutumnPreProdLoadTest
+    "975328763985":
+      profile: AutumnProd
+    "746458061666":
+      profile: CardsPalTooling
+    "569787081916":
+      profile: CardsPalDev
+    "671237791873":
+      profile: CardsPalPreProd
+    "622294695790":
+      profile: CardsPalProd
+    "354204196887":
+      profile: LibertyTooling
+    "889512243864":
+      profile: LibertyDev
+    "516841384837":
+      profile: LibertyPreProd
+    "924803074635":
+      profile: LibertyProd
+    "904452194620":
+      profile: LitmusTooling
+    "555262148476":
+      profile: LitmusDev
+    "778935016325":
+      profile: LitmusPreProd
+    "707095847428":
+      profile: LitmusPreProdPipelineTrial
+    "295512037482":
+      profile: LitmusProd
+    "466850523555":
+      profile: LydiaTooling
+    "188107164386":
+      profile: LydiaDev
+    "037620699673":
+      profile: LydiaDevDemo
+    "085169009429":
+      profile: LydiaDevInternal
+    "184633955277":
+      profile: LydiaPreProd
+    "638274976177":
+      profile: LydiaProd
+    "072496178032":
+      profile: PhoenixAppSandbox
+    "373006088823":
+      profile: PhoenixAppStaging
+    "802456645794":
+      profile: PhoenixAudit
+    "344255138519":
+      profile: PhoenixCentralIngressEgress
+    "070227983750":
+      profile: PhoenixCentralSharedServices
+    "543926928469":
+      profile: PhoenixDev
+    "793840593822":
+      profile: PhoenixDevApp
+    "123256590993":
+      profile: PhoenixDevDmz
+    "095482036645":
+      profile: PhoenixDevPeering
+    "595772947304":
+      profile: PhoenixDevShared
+    "716361403991":
+      profile: PhoenixLogs
+    "036217337260":
+      profile: PhoenixMaster
+    "020468583422":
+      profile: PhoenixPTDevMaster
+    "804151871159":
+      profile: SmileTooling
+    "469406557926":
+      profile: SmileDev
+    "172907087558":
+      profile: SCVTooling
+    "483059423106":
+      profile: SCVMaster
+    "178394743801":
+      profile: ZodiaMarketsDev
+    "308712144460":
+      profile: ZodiaMarketsTooling
+    "145528097621":
+      profile: SolvKenyaDev
